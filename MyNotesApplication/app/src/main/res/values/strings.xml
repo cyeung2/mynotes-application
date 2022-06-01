@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Notes Application</string>
+    <string name="file_name">notes.json</string>
+</resources>
